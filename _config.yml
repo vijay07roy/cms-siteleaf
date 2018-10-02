@@ -8,4 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+
+repository: vijay07roy/cms-siteleaf
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
