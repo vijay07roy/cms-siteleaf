@@ -8,9 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+<<<<<<< HEAD
 repository: vijay07roy/cms-siteleaf
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-feed
+=======
+theme: jekyll-theme-minimal
+>>>>>>> gh-pages
